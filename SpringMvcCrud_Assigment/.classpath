@@ -9,5 +9,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Vamsi Apuroop M/git/Great_learning_Full_Stack_New/Great-Learning_Full_Stack/SpringMvCCrud/src/main/webapp/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
